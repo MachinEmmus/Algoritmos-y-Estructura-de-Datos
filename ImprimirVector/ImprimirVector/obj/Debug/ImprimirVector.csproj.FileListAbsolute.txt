@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/ImprimirVector/ImprimirVector/bin/Debug/ImprimirVector.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/ImprimirVector/ImprimirVector/bin/Debug/ImprimirVector.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/ImprimirVector/ImprimirVector/obj/Debug/ImprimirVector.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/ImprimirVector/ImprimirVector/obj/Debug/ImprimirVector.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/ImprimirVector/ImprimirVector/obj/Debug/ImprimirVector.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/ImprimirVector/ImprimirVector/obj/Debug/ImprimirVector.pdb
