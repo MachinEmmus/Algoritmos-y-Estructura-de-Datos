@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort/BubleSort/bin/Debug/BubleSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort/BubleSort/bin/Debug/BubleSort.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort/BubleSort/obj/Debug/BubleSort-Normal.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort/BubleSort/obj/Debug/BubleSort-Normal.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort/BubleSort/obj/Debug/BubleSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort/BubleSort/obj/Debug/BubleSort.pdb
