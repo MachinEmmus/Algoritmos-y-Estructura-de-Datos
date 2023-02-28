@@ -9,33 +9,33 @@ namespace BubleSort
         {
             // Pide al usuario que ingrese la cantidad de elementos del arreglo
             Console.Write("Ingrese la cantidad de elementos del arreglo: ");
-            int n = int.Parse(Console.ReadLine());
+            int tamaño = int.Parse(Console.ReadLine());
 
             // Crea un arreglo de n posiciones
-            int[] arr = new int[n];
+            int[] miArray = new int[tamaño];
 
             // Llena el arreglo con números aleatorios entre 1 y 100
             Random random = new Random();
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < tamaño; i++)
             {
-                arr[i] = random.Next(1, (n + 1));
+                miArray[i] = random.Next(1, (tamaño + 1));
             }
 
             // Imprime el arreglo generado
             Console.WriteLine("El arreglo generado es:");
-            foreach (int num in arr)
+            foreach (int num in miArray)
             {
                 Console.Write(num + " ");
             }
 
             // Mide el tiempo de ejecución del algoritmo de ordenamiento
             Stopwatch stopwatch = Stopwatch.StartNew();
-            BubbleSort(arr);
+            BubbleSort(miArray);
             stopwatch.Stop();
 
             // Imprime el arreglo ordenado
             Console.WriteLine("\nEl arreglo ordenado es:");
-            foreach (int num in arr)
+            foreach (int num in miArray )
             {
                 Console.Write(num + " ");
             }
@@ -43,7 +43,8 @@ namespace BubleSort
             // Imprime el tiempo de ejecución en microsegundos
             Console.WriteLine($"\nTiempo de ejecución: {stopwatch.ElapsedTicks / (TimeSpan.TicksPerMillisecond / 1000)} μs");
 
-            Console.ReadLine();
+            // Esperamos a que el usuario presione una tecla para salir
+            Console.ReadKey();
         }
 
         static void BubbleSort(int[] arr)
