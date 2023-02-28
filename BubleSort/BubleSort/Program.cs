@@ -21,13 +21,6 @@ namespace BubleSort
                 miArray[i] = random.Next(1, (tamaño + 1));
             }
 
-            // Imprime el arreglo generado
-            Console.WriteLine("El arreglo generado es:");
-            foreach (int num in miArray)
-            {
-                Console.Write(num + " ");
-            }
-
             // Mide el tiempo de ejecución del algoritmo de ordenamiento
             Stopwatch stopwatch = Stopwatch.StartNew();
             BubbleSort(miArray);

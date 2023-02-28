@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{CBDA6C0B-98C2-4E66-BFAC-C102E40D656A}|Default">
-  <MonoDevelop.Ide.ItemProperties.ShellSort FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ShellSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ShellSort/Program.cs">
     <Files>
-      <File FileName="ShellSort/Program.cs" Line="1" Column="1" />
+      <File FileName="ShellSort/Program.cs" Line="27" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShellSort" expanded="True">
-            <Node name="ShellSort" expanded="True" selected="True" />
+            <Node name="ShellSort" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

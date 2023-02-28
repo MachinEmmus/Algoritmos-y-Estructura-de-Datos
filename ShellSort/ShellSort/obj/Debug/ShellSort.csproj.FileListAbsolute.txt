@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/ShellSort/ShellSort/bin/Debug/ShellSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/ShellSort/ShellSort/bin/Debug/ShellSort.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/ShellSort/ShellSort/obj/Debug/ShellSort.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/ShellSort/ShellSort/obj/Debug/ShellSort.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/ShellSort/ShellSort/obj/Debug/ShellSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/ShellSort/ShellSort/obj/Debug/ShellSort.pdb

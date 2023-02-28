@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort-Mejorado/BubleSort-Mejorado/bin/Debug/BubleSort-Mejorado.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort-Mejorado/BubleSort-Mejorado/bin/Debug/BubleSort-Mejorado.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort-Mejorado/BubleSort-Mejorado/obj/Debug/BubleSort-Mejorado.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort-Mejorado/BubleSort-Mejorado/obj/Debug/BubleSort-Mejorado.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort-Mejorado/BubleSort-Mejorado/obj/Debug/BubleSort-Mejorado.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/BubleSort-Mejorado/BubleSort-Mejorado/obj/Debug/BubleSort-Mejorado.pdb

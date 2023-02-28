@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/MergeSort/MergeSort/bin/Debug/MergeSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/MergeSort/MergeSort/bin/Debug/MergeSort.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/MergeSort/MergeSort/obj/Debug/MergeSort.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/MergeSort/MergeSort/obj/Debug/MergeSort.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/MergeSort/MergeSort/obj/Debug/MergeSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/MergeSort/MergeSort/obj/Debug/MergeSort.pdb

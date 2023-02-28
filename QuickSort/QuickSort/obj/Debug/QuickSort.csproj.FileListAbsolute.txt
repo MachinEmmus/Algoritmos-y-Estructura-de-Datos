@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/QuickSort/QuickSort/bin/Debug/QuickSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/QuickSort/QuickSort/bin/Debug/QuickSort.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/QuickSort/QuickSort/obj/Debug/QuickSort.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/QuickSort/QuickSort/obj/Debug/QuickSort.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/QuickSort/QuickSort/obj/Debug/QuickSort.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/QuickSort/QuickSort/obj/Debug/QuickSort.pdb
