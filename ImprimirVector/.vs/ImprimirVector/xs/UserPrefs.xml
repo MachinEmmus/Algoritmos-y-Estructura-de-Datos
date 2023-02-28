@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{1D3156F9-C7D4-4184-904E-3E5BA563C248}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BubleSort/Program.cs">
+﻿<Properties StartupConfiguration="{B206BE4D-5629-42CC-AD3B-22D1138214FA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImprimirVector/Program.cs">
     <Files>
-      <File FileName="BubleSort/Program.cs" Line="27" Column="14" />
+      <File FileName="ImprimirVector/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BubleSort-Normal" expanded="True">
-            <Node name="BubleSort-Normal" expanded="True">
+          <Node name="ImprimirVector" expanded="True">
+            <Node name="ImprimirVector" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BubleSort-Normal PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.ImprimirVector FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
