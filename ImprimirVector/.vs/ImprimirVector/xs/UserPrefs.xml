@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{B206BE4D-5629-42CC-AD3B-22D1138214FA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ImprimirVector/Program.cs">
     <Files>
-      <File FileName="ImprimirVector/Program.cs" Line="1" Column="1" />
+      <File FileName="ImprimirVector/Program.cs" Line="11" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.ImprimirVector FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ImprimirVector PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
