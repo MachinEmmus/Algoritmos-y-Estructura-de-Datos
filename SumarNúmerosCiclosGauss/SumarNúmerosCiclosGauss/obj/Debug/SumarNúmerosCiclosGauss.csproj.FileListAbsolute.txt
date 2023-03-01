@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/SumarNúmerosCiclosGauss/SumarNúmerosCiclosGauss/bin/Debug/SumarNúmerosCiclosGauss.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/SumarNúmerosCiclosGauss/SumarNúmerosCiclosGauss/bin/Debug/SumarNúmerosCiclosGauss.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/SumarNúmerosCiclosGauss/SumarNúmerosCiclosGauss/obj/Debug/SumarNúmerosCiclosGauss.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/SumarNúmerosCiclosGauss/SumarNúmerosCiclosGauss/obj/Debug/SumarNúmerosCiclosGauss.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/SumarNúmerosCiclosGauss/SumarNúmerosCiclosGauss/obj/Debug/SumarNúmerosCiclosGauss.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/SumarNúmerosCiclosGauss/SumarNúmerosCiclosGauss/obj/Debug/SumarNúmerosCiclosGauss.pdb
