@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecorridoMatrizBidimencional", "RecorridoMatrizBidimencional\RecorridoMatrizBidimencional.csproj", "{4D79E7D4-7FCF-4157-A17A-74A3FEF7ADA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D79E7D4-7FCF-4157-A17A-74A3FEF7ADA2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4D79E7D4-7FCF-4157-A17A-74A3FEF7ADA2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4D79E7D4-7FCF-4157-A17A-74A3FEF7ADA2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4D79E7D4-7FCF-4157-A17A-74A3FEF7ADA2}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B2B32B-8A56-4F4E-96B9-8C569F59EB33}
+	EndGlobalSection
+EndGlobal

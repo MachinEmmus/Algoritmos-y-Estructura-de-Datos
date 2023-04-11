@@ -1,0 +1,6 @@
+/Users/emmus/Documents/Personal/Estructura de Datos/ArregloTridimencional/ArregloTridimencional/bin/Debug/ArregloTridimencional.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/ArregloTridimencional/ArregloTridimencional/bin/Debug/ArregloTridimencional.pdb
+/Users/emmus/Documents/Personal/Estructura de Datos/ArregloTridimencional/ArregloTridimencional/obj/Debug/ArregloTridimencional.csproj.AssemblyReference.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/ArregloTridimencional/ArregloTridimencional/obj/Debug/ArregloTridimencional.csproj.CoreCompileInputs.cache
+/Users/emmus/Documents/Personal/Estructura de Datos/ArregloTridimencional/ArregloTridimencional/obj/Debug/ArregloTridimencional.exe
+/Users/emmus/Documents/Personal/Estructura de Datos/ArregloTridimencional/ArregloTridimencional/obj/Debug/ArregloTridimencional.pdb

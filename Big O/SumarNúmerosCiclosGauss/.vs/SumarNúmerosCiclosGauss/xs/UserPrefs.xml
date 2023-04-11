@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{7A3C478F-BBD1-432D-884D-0947923C9DE0}|Default">
-  <MonoDevelop.Ide.ItemProperties.SumarNúmerosCiclosGauss FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SumarNúmerosCiclosGauss PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SumarNúmerosCiclosGauss/Program.cs">
     <Files>
-      <File FileName="SumarNúmerosCiclosGauss/Program.cs" Line="10" Column="63" />
+      <File FileName="SumarNúmerosCiclosGauss/Program.cs" Line="40" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
