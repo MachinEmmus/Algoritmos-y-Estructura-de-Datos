@@ -1,38 +1,77 @@
-class Node:
-    def __init__(self, data):
-        self.data = data
-        self.next = None
+class Nodo:
+    def __init__(self, dato=None, siguiente=None):
+        self.dato = dato
+        self.siguiente = siguiente
 
-class LinkedList:
+
+class ListaSimplementeLigada:
     def __init__(self):
-        self.head = None
+        self.cabeza = None
+        self.cola = None
 
-    def add_node(self, data):
-        new_node = Node(data)
-        if not self.head:
-            self.head = new_node
+    def esta_vacia(self):
+        return self.cabeza is None
+
+    def agregar(self, dato):
+        nuevo_nodo = Nodo(dato)
+        if self.esta_vacia():
+            self.cabeza = nuevo_nodo
+            self.cola = nuevo_nodo
         else:
-            current = self.head
-            while current.next:
-                current = current.next
-            current.next = new_node
+            self.cola.siguiente = nuevo_nodo
+            self.cola = nuevo_nodo
 
-    def print_list(self):
-        current = self.head
-        while current:
-            print(current.data)
-            current = current.next
+    def recorrer(self):
+        if self.esta_vacia():
+            print("La lista está vacía.")
+        else:
+            actual = self.cabeza
+            while actual is not None:
+                print(actual.dato)
+                actual = actual.siguiente
 
-# Creamos una instancia de la lista
-my_list = LinkedList()
+    def eliminar(self, dato):
+        if self.esta_vacia():
+            print("La lista está vacía.")
+        elif self.cabeza.dato == dato:
+            self.cabeza = self.cabeza.siguiente
+        else:
+            actual = self.cabeza
+            while actual.siguiente is not None and actual.siguiente.dato != dato:
+                actual = actual.siguiente
+            if actual.siguiente is None:
+                print("El dato no se encontró en la lista.")
+            else:
+                actual.siguiente = actual.siguiente.siguiente
+                if actual.siguiente is None:
+                    self.cola = actual
 
-# Añadimos los 5 datos
-my_list.add_node("dato 1")
-my_list.add_node("dato 2")
-my_list.add_node("dato 3")
-my_list.add_node("dato 4")
-my_list.add_node("dato 5")
 
-# Imprimimos la lista
-my_list.print_list()
+# Crear una nueva lista
+lista = ListaSimplementeLigada()
+
+# Solicitar al usuario ingresar los números a la lista
+for i in range(4):
+    dato = int(input(f"Ingrese el número {i+1}: "))
+    lista.agregar(dato)
+
+# Mostrar el menú después de llenar la lista por primera vez
+while True:
+    print("-------- Menú --------")
+    print("1. Imprimir lista")
+    print("2. Eliminar elemento")
+    print("3. Salir")
+    opcion = int(input("Seleccione una opción: "))
+
+    if opcion == 1:
+        print("Lista:")
+        lista.recorrer()
+    elif opcion == 2:
+        dato_eliminar = int(input("Ingrese el número a eliminar: "))
+        lista.eliminar(dato_eliminar)
+    elif opcion == 3:
+        print("¡Hasta luego!")
+        break
+    else:
+        print("Opción inválida. Por favor, seleccione una opción válida.")
 
